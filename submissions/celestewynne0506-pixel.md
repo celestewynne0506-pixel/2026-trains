@@ -52,7 +52,7 @@
 ## 截止之后的后续维护（9/27 之后）
 
 训练营截止后项目仍在持续维护。
-对比页：https://github.com/celestewynne0506-pixel/bazi-app/compare/v1.3.0...main（22 个 commit，截至 10/7）
+对比页：https://github.com/celestewynne0506-pixel/bazi-app/compare/v1.3.0...main（23 个 commit，截至 10/7）
 
 1. **独立域名与网站首页**：网站换到 skyrede.com。首页改为一张产品介绍页（Blender 渲染的白鸽穿云开场 + Three.js 实时生成的云海 + 下滑的六条介绍），排盘应用挪到 `/app/`。
 2. **账号与云端备份**：邮箱验证码登录，命例、合盘、占事记录在本机加密后备份到云端，换设备登录即取回并与本机合并；补了用户协议与隐私政策、注册时的人机验证。
